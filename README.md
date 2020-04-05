@@ -3,7 +3,7 @@
 ## Data Visualization with Python Libraries
 One of the biggest uses of Python is for data analysis and to create charts, graphs, and other visual representations of data.
 
-##Matplotlib
+## Matplotlib
 Matplotlib is one of the most popular data visualization tools in Python. We see it used in different ways in different contexts, often you will see people using this as part of a Jupyter Notebook.
 
 First we need to install Matplotlib on your computer. At the command prompt you will need to type the following commands:
