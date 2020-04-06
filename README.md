@@ -102,5 +102,5 @@ print(df.describe())
 [Pandas Getting Started Guide](https://pandas.pydata.org/docs/getting_started/10min.html)
 
 ### Resources:
-[Matpotlib Website](https://matplotlib.org/tutorials/index.html)
-[Pandas Documentation](https://pandas.pydata.org/docs/index.html)
+- [Matpotlib Website](https://matplotlib.org/tutorials/index.html)  
+- [Pandas Documentation](https://pandas.pydata.org/docs/index.html)
