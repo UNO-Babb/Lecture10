@@ -99,7 +99,7 @@ print(df.describe())
 ```
 
 ### Further Exploration
-[Pandas Getting Started Guide](https://pandas.pydata.org/docs/getting_started/10min.html)
+[Pandas Getting Started Guide](https://pandas.pydata.org/getting_started.html)
 
 ### Resources:
 - [Matpotlib Website](https://matplotlib.org/tutorials/index.html)  
