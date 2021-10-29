@@ -1,4 +1,4 @@
-# Lecture 10 - CYBR 2980
+# Lecture 10 - CIST 1600
 
 ## Data Visualization with Python Libraries
 One of the biggest uses of Python is for data analysis and to create charts, graphs, and other visual representations of data.
